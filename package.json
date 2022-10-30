@@ -1,5 +1,6 @@
 {
   "name": "robos",
+  "homepage": "https://anandr14.github.io/Robofriends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
